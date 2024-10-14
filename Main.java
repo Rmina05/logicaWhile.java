@@ -16,7 +16,7 @@ public class Main {
             control++; 
         }
 
-        System.out.print("La suma de los primeros " + numeroentrada + " números naturales es igual a " + resultado);
+        System.out.print("La suma de los primeros " + numeroentrada + "naturales es igual a " + resultado);
 
         scanner.close();
     }
